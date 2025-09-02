@@ -27,15 +27,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)  
 
 ---
-
-### 📂 Featured Projects  
-
-🔹 [**API Backend with FastAPI**](https://github.com/RoshanKoncpt/fastapi-backend)  
-RESTful API for a scalable application with JWT authentication and PostgreSQL integration.  
-
-🔹 [**Flask Blog App**](https://github.com/RoshanKoncpt/flask-blog)  
-A responsive blog web app with Flask, HTML, and CSS.
-
 ---
 
 ### 📊 GitHub Stats  
@@ -62,4 +53,6 @@ A responsive blog web app with Flask, HTML, and CSS.
 ---
 
 ⭐ **If you like my work, consider starring some repos!**
+
+
 
