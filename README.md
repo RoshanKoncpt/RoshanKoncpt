@@ -1,4 +1,4 @@
-# Github Profile
+# Profile
 <!-- Banner -->
 ![Roshan Banner](https://github.com/RoshanKoncpt/RoshanKoncpt/blob/main/assets/banner.png)
 
