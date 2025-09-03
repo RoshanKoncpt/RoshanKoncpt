@@ -1,6 +1,6 @@
 # Profile
 <!-- Banner -->
-![Roshan Banner](https://github.com/RoshanMishra2001/RoshanKoncpt/blob/main/assets/banner.png)
+![Roshan Banner](https://github.com/RoshanMishra2001/RoshanMishra2001/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Roshan!  
 💻 **Python Developer (FastAPI | Flask)** | 🎥 **Content Creator (Roshan Reviews)**  
