@@ -1,6 +1,6 @@
 # Profile
 <!-- Banner -->
-![Roshan Banner](https://github.com/RoshanKoncpt/RoshanKoncpt/blob/main/assets/banner.png)
+![Roshan Banner](https://github.com/RoshanMishra2001/RoshanKoncpt/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Roshan!  
 💻 **Python Developer (FastAPI | Flask)** | 🎥 **Content Creator (Roshan Reviews)**  
@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RoshanKoncpt&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanKoncpt&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKoncpt&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=RoshanMishra2001&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshanMishra2001&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanMishra2001&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
@@ -48,7 +48,7 @@
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshan-mishra-829785191/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/RoshanKoncpt)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/RoshanMishra2001)  
 
 ---
 
